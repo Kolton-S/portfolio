@@ -1,29 +1,18 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
-
 ### What is this repository for? ###
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+* This is the repository for Kolton Simpson's portfolio website and work. He does web design, graphic design and photography.
+* Version: 1.01
 
 ### How do I get set up? ###
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+* This repo uses a webhook and ssh to automatically update Kolton Simpson's website once a commit or push happens.
 
 ### Contribution guidelines ###
 
-* Writing tests
-* Code review
-* Other guidelines
+* Kolton Simpson - Everything
 
 ### Who do I talk to? ###
 
 * Repo owner or admin
-* Other community or team contact
